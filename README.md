@@ -68,7 +68,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Aditya10403/React-Admin-DashBoard.git
+https://github.com/gulshanjangid/React-Admin-DashBoard-master.git
 cd React-Admin-DashBoard
 ```
 
